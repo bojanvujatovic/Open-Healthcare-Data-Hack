@@ -1,6 +1,5 @@
-Open-Healthcare-Data-Hack
+Open Healthcare Data Hack
 =========================
 
-Code produced at Open Healthcare Data Hack 13/14 December 2014
+Code produced at [Open Healthcare Data Hack](http://healthcaredatascience.com/) 13/14 December 2014
 
-[a link](http://healthcaredatascience.com/)
