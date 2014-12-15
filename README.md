@@ -47,6 +47,10 @@ There are 36 temporal attributes in the dataset for which some measurements are 
   * TropT [Troponin-T (μg/L)] 
   * Urine [Urine output (mL)] 
   * WBC [White blood cell count (cells/nL)] 
-  * Weight (kg)* 
 
+For EACH of these attributes, the following features are derived:
+* __Mean__
+* __Standard deviation__ 
+* __Averaged gradient__ (averaged slopes of the lines connecting each two consecutove measurements)
+* __Standard deviation of gradients__  (standard deviation of slopes of the lines connecting each two consecutove measurements)
 
